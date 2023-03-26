@@ -1,0 +1,6 @@
+temperatures
+8
+5
+60
+36
+50

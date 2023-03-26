@@ -1,0 +1,6 @@
+[{"questions" :  "Which live in oceans ?",
+  "options" : ["Dogs","Birds","Dolphins"],
+  "correct_answer": 3},
+{"questions" :  "Which occupies th most on Earth ?",
+  "options" : ["Land","Water"],
+  "correct_answer": 2}]
