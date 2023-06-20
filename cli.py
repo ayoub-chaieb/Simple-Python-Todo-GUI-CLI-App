@@ -5,7 +5,7 @@ import time
 # print(older_version)
 # input(help(get_todos))
 
-FILENAME = "files/todos.txt"
+FILENAME = "todos.txt"
 
 now = time.strftime("%b %d - %Y %H:%m:%S")
 print("It's", now)
